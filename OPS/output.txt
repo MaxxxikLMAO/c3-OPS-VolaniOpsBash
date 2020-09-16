@@ -1,0 +1,11 @@
+Zadejte libovolne cislo. Po napsani hesla 'END' se program ukonci. 
+Zadejte libovolne cislo. Po napsani hesla 'END' se program ukonci. 
+Zadejte libovolne cislo. Po napsani hesla 'END' se program ukonci. 
+Zadejte libovolne cislo. Po napsani hesla 'END' se program ukonci. 
+Zadejte libovolne cislo. Po napsani hesla 'END' se program ukonci. 
+Zadejte libovolne cislo. Po napsani hesla 'END' se program ukonci. 
+Zadejte libovolne cislo. Po napsani hesla 'END' se program ukonci. 
+Soucet vsech vasich zadanych cisel je: 115
+Prumer vsech vasich zadanych cisel je: 19
+Vase nejvetsi zadane cislo je: 89
+Vase nejmensi zadane cislo je: 1
